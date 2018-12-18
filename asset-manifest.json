@@ -1,7 +1,7 @@
 {
   "main.css": "/tv-series/static/css/main.0fe620c4.chunk.css",
-  "main.js": "/tv-series/static/js/main.d651dbf3.chunk.js",
-  "main.js.map": "/tv-series/static/js/main.d651dbf3.chunk.js.map",
+  "main.js": "/tv-series/static/js/main.f112541b.chunk.js",
+  "main.js.map": "/tv-series/static/js/main.f112541b.chunk.js.map",
   "static/js/1.46475e92.chunk.js": "/tv-series/static/js/1.46475e92.chunk.js",
   "static/js/1.46475e92.chunk.js.map": "/tv-series/static/js/1.46475e92.chunk.js.map",
   "runtime~main.js": "/tv-series/static/js/runtime~main.01bf3f0e.js",
@@ -9,6 +9,6 @@
   "static/media/loader.gif": "/tv-series/static/media/loader.f4404720.gif",
   "static/css/main.0fe620c4.chunk.css.map": "/tv-series/static/css/main.0fe620c4.chunk.css.map",
   "index.html": "/tv-series/index.html",
-  "precache-manifest.7c90db8661a323a9fb59d51727977650.js": "/tv-series/precache-manifest.7c90db8661a323a9fb59d51727977650.js",
+  "precache-manifest.03fe7f2cac8d4ab60ad2c3f646914583.js": "/tv-series/precache-manifest.03fe7f2cac8d4ab60ad2c3f646914583.js",
   "service-worker.js": "/tv-series/service-worker.js"
 }
